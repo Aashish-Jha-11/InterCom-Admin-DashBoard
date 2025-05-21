@@ -26,7 +26,7 @@ This project is a functional and responsive clone of the Intercom AI-enhanced ad
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/intercom-admin-panel.git
+git clone https://github.com/Aashish-Jha-11/InterCom-Admin-DashBoard.git
 cd intercom-admin-panel
 npm install
 npm run dev
